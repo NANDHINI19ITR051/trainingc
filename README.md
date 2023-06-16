@@ -1,1 +1,2 @@
-# trainingc
+# gcc filename.c
+# ./a.out
